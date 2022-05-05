@@ -1,0 +1,73 @@
+#contact iframe
+{
+    width: 100%;
+    
+}
+.travel-div {
+    border: 1px;
+    color: lightgreen;
+}
+
+.fatfish {
+  width: 100%;
+}
+
+.travel-div img{
+    width: 100%;
+}
+
+.travel-div h5, .travel-div p {
+    margin: 20px;
+}
+
+
+
+body{
+    background: linear-gradient(#c585ed 0%, #9dd0e6 100%);
+     display: table;
+     height: 100%;
+     width: 100%;
+}
+
+#me {
+    height:500px;
+}
+.movie_head{
+
+     font-size: 20px;
+
+     padding: 6px 22px;
+
+     border-radius: 10px;
+
+     margin-bottom: 15px;
+
+}
+.movie_head i
+
+{
+
+     float: right;
+
+}
+
+img {
+    width:40%;
+    height:50%;
+}
+
+.book4{
+    width: 100px;
+}
+
+.profile{
+margin-left: 300px  !important;
+}
+
+a{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large    ;
+}
+
+
